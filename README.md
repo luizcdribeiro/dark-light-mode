@@ -38,6 +38,10 @@ O projeto consiste em alterar os styles do HTML com um script básico que pode s
 
 A função changeColors recebe a key da constante e altera de acordo com a propriedade darkMode. Tudo que precisa fazer é alterar as variaveis CSS de acordo com seu projeto e acrescentar o Dark Mode no script.js para a alteração funcionar e trazer beneficios ao seu projeto!
 
+<div>
+    <img src="captured.gif" width: 100%>
+ </div>
+
 ---
 
 ## 💪 Como contribuir para o projeto
