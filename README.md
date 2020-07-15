@@ -8,52 +8,35 @@ Componente de alteração para Dark Mode de acordo com variaveis do CSS
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+Porque todo site ou app mobile deveria ter Dark Mode:
 
+## Redução da tensão ocular
+Olhar para uma luz brilhante, intensa e permanente causa uma grande tensão nos olhos. O uso de uma luz mais escura proporciona ao descanso da vista, resolvendo assim este problema.
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Luzes como por exemplo a azul poderá prejudicar os olhos porque é uma luz forte para a retina que é muito sensível a esse tipo de luzes e o risco da sua degeneração é mais possível nos casos de incidência da luz constantemente. Existem filtros de luz azul no dark mode que é visualmente mais confortável.
 
----
+## Dormir melhor
+Mesmo sabendo, teimamos em espreitar o nosso telemóvel antes de dormir, e isso não nos ajuda a adormecer porque a luz brilhante confunde as células dos neurónios que induzem ao sono e por sua vez ativam antes as que nos fazem ficar acordados.
 
-## ⚙️ Funcionalidades
+Confunde o ciclo do sono por completo provocando alterações de comportamento ao longo do tempo. Uma luz ou um tema mais escuro é a resolução de parte deste problema porque descontrai a tensão ocular e por sua vez, todo o organismo, não afetando o sono.
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
+## Reduz as dores de cabeça e enxaqueca
+Pessoas mais sensíveis à luz poderão ficar em risco de desenvolver fotofobia, se já não sofrerem desse problema. A
 
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+fotofobia é uma condição médica que torna os olhos sensíveis à luz e o uso de dispositivos com luzes brilhantes, poderão piorar esse problema, assim como o aumento de enxaquecas. O dark mode é um aliado de quem sofre desta condição.
 
----
+## Prevenção de problemas médicos graves
+Poderão achar um exagero mas a falta de sono pode levar a vários distúrbios e doenças como a depressão, a obesidade que por sua vez levam a problemas cardiovasculares. Uma boa noite de sono é muito importante e necessária para o nosso organismo. e o uso do dark mode irá ajudá-lo a adormecer melhor do que uma luz brilhante e clara.
 
-## 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
+O que retiramos daqui, é que o dark mode ajuda a travar condições que a visualização constante de luzes brilhantes poderão provocar ao nosso bem estar e organismo dando origem a problemas mais graves.
 
 ---
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
-3. Mobile (pasta mobile)
+O projeto consiste em alterar os styles do HTML com um script básico que pode ser alterado de acordo com sua necessidade. No caso do exemplo que fiz, voce pode colocar quantas variáveis quiser na constante initialColors desde que, cada propriedade da constante, receba uma igual na constante darkMode.
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+A função changeColors recebe a key da constante e altera de acordo com a propriedade darkMode. Tudo que precisa fazer é alterar as variaveis CSS de acordo com seu projeto e acrescentar o Dark Mode no script.js para a alteração funcionar e trazer beneficios ao seu projeto!
 
 ---
 
@@ -76,7 +59,7 @@ Este projeto é divido em três partes:
  <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@luizjuniordant1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luizjuniordant1)](https://twitter.com/luizjuniordant1) [![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-dantas-ribeiro-junior-7422b9124/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luizjunior.dantas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizjunior.dantas@gmail.com)](mailto:luizjunior.dantas@gmail.com)
 
 ---
 
