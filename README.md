@@ -58,7 +58,7 @@ A função changeColors recebe a key da constante e altera de acordo com a propr
  <sub><b>Luiz Carlos Ribeiro</b></sub><a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🖖</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@luizjuniordant1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luizjuniordant1)](https://twitter.com/luizjuniordant1) [![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-dantas-ribeiro-junior-7422b9124/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/badge/-@luizjuniordant1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luizjuniordant1)](https://twitter.com/luizjuniordant1) [![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-dantas-ribeiro-junior-7422b9124/)](https://www.linkedin.com/in/luiz-carlos-dantas-ribeiro-junior-7422b9124/) 
 [![Gmail Badge](https://img.shields.io/badge/-luizjunior.dantas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizjunior.dantas@gmail.com)](mailto:luizjunior.dantas@gmail.com)
 
 ---
